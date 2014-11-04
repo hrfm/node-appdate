@@ -1,0 +1,25 @@
+{
+  "name": "node-appdate",
+  "version": "0.0.0",
+  "description": "appdate =======",
+  "main": "index.js",
+  "dependencies": {
+    "oscsocket": "~0.0.3"
+  },
+  "devDependencies": {
+    "oscsocket": "0.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hrfm/node-appdate.git"
+  },
+  "author": "hrfm <hrfm0818@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hrfm/node-appdate/issues"
+  },
+  "homepage": "https://github.com/hrfm/node-appdate"
+}
